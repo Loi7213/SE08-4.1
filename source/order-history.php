@@ -21,7 +21,7 @@ if (strlen($_SESSION['login']) == 0) {
 		<meta name="keywords" content="MediaCenter, Template, eCommerce">
 		<meta name="robots" content="all">
 
-		<title>UNO Store|Order History</title>
+		<title>BPL Store|Order History</title>
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/main.css">
 		<link rel="stylesheet" href="assets/css/green.css">

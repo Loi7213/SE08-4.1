@@ -27,7 +27,7 @@ if (isset($_GET['action'])) {
 	<meta name="keywords" content="MediaCenter, Template, eCommerce">
 	<meta name="robots" content="all">
 
-	<title>UNO Store|Online Banking</title>
+	<title>BPL Store|Online Banking</title>
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/main.css">
 	<link rel="stylesheet" href="assets/css/green.css">
@@ -218,10 +218,10 @@ if (isset($_GET['action'])) {
 										<div class="cart-checkout-btn pull-right">
 											<div>
 												<span>
-													<b>Account name: </b> NGUYEN THANH PHUONG
+													<b>Account name: </b> NGUYEN SON BA
 												</span>
 												<span>
-													<b>Account number: </b> 1010158623004
+													<b>Account number: </b> 9999 888 777
 												</span>
 												<span>
 													<b>Bank name: </b> Military Commercial Joint Stock Bank

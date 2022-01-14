@@ -20,7 +20,7 @@
 
                             <div class="social-icons">
 
-                                <a href="https://facebook.com/phuonguno.vn" class='active'><i class="icon fa fa-facebook"></i></a>
+                                <a href="https://www.facebook.com/bakien1801/" class='active'><i class="icon fa fa-facebook"></i></a>
                                 <a href="#"><i class="icon fa fa-twitter"></i></a>
                                 <a href="#"><i class="icon fa fa-linkedin"></i></a>
                                 <a href="#"><i class="icon fa fa-rss"></i></a>

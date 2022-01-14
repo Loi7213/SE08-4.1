@@ -4,56 +4,56 @@
 		<div id="brand-slider" class="owl-carousel brand-slider custom-carousel owl-theme">
 			<div class="item">
 				<a href="#" class="image">
-					<img data-echo="brandsimage/aoc.jpg" src="assets/images/blank.gif" alt="">
+					<img data-echo="brandsimages/aoc.jpg" src="assets/images/blank.gif" alt="">
 				</a>
 			</div>
 			<!--/.item-->
 
 			<div class="item">
 				<a href="#" class="image">
-					<img data-echo="brandsimage/bajaj.jpg" src="assets/images/blank.gif" alt="">
+					<img data-echo="brandsimages/bajaj.jpg" src="assets/images/blank.gif" alt="">
 				</a>
 			</div>
 			<!--/.item-->
 
 			<div class="item">
 				<a href="#" class="image">
-					<img data-echo="brandsimage/blackberry.jpg" src="assets/images/blank.gif" alt="">
+					<img data-echo="brandsimages/blackberry.jpg" src="assets/images/blank.gif" alt="">
 				</a>
 			</div>
 			<!--/.item-->
 
 			<div class="item">
 				<a href="#" class="image">
-					<img data-echo="brandsimage/canon.jpg" src="assets/images/blank.gif" alt="">
+					<img data-echo="brandsimages/canon.jpg" src="assets/images/blank.gif" alt="">
 				</a>
 			</div>
 
 			<div class="item">
 				<a href="#" class="image">
-					<img data-echo="brandsimage/compas.jpg" src="assets/images/blank.gif" alt="">
+					<img data-echo="brandsimages/compas.jpg" src="assets/images/blank.gif" alt="">
 				</a>
 			</div>
 
 			<div class="item">
 				<a href="#" class="image">
-					<img data-echo="brandsimage/daikin.jpg" src="assets/images/blank.gif" alt="">
+					<img data-echo="brandsimages/daikin.jpg" src="assets/images/blank.gif" alt="">
 				</a>
 			</div>
 
 			<div class="item">
 				<a href="#" class="image">
-					<img data-echo="brandsimage/dell.jpg" src="assets/images/blank.gif" alt="">
+					<img data-echo="brandsimages/dell.jpg" src="assets/images/blank.gif" alt="">
 				</a>
 			</div>
 			<div class="item">
 				<a href="#" class="image">
-					<img data-echo="brandsimage/samsung.jpg" src="assets/images/blank.gif" alt="">
+					<img data-echo="brandsimages/samsung.jpg" src="assets/images/blank.gif" alt="">
 				</a>
 			</div>
 			<div class="item">
 				<a href="#" class="image">
-					<img data-echo="brandsimage/hcl.jpg" src="assets/images/blank.gif" alt="">
+					<img data-echo="brandsimages/hcl.jpg" src="assets/images/blank.gif" alt="">
 				</a>
 			</div>
 
@@ -61,25 +61,25 @@
 
 			<div class="item">
 				<a href="#" class="image">
-					<img data-echo="brandsimage/sony.jpg" src="assets/images/blank.gif" alt="">
-				</a>
-			</div>
-
-			<div class="item">
-				<a href="#" class="image">
-					<img data-echo="brandsimage/voltas.jpg" src="assets/images/blank.gif" alt="">
+					<img data-echo="brandsimages/sony.jpg" src="assets/images/blank.gif" alt="">
 				</a>
 			</div>
 
 			<div class="item">
 				<a href="#" class="image">
-					<img data-echo="brandsimage/lg.jpg" src="assets/images/blank.gif" alt="">
+					<img data-echo="brandsimages/voltas.jpg" src="assets/images/blank.gif" alt="">
 				</a>
 			</div>
 
 			<div class="item">
 				<a href="#" class="image">
-					<img data-echo="brandsimage/lenovo.jpg" src="assets/images/blank.gif" alt="">
+					<img data-echo="brandsimages/lg.jpg" src="assets/images/blank.gif" alt="">
+				</a>
+			</div>
+
+			<div class="item">
+				<a href="#" class="image">
+					<img data-echo="brandsimages/lenovo.jpg" src="assets/images/blank.gif" alt="">
 				</a>
 			</div>
 

@@ -44,7 +44,7 @@ if (isset($_GET['pid']) && $_GET['action'] == "wishlist") {
 	<meta name="keywords" content="MediaCenter, Template, eCommerce">
 	<meta name="robots" content="all">
 
-	<title>UNO Store|Sub Category</title>
+	<title>BPL Store|Sub Category</title>
 
 	<!-- Bootstrap Core CSS -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">

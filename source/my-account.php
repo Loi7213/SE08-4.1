@@ -44,7 +44,7 @@ if (strlen($_SESSION['login']) == 0) {
 		<meta name="keywords" content="MediaCenter, Template, eCommerce">
 		<meta name="robots" content="all">
 
-		<title>UNO Store|My Account</title>
+		<title>BPL Store|My Account</title>
 
 		<!-- Bootstrap Core CSS -->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
