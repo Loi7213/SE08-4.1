@@ -109,7 +109,7 @@
                                         </span>
                                     </div>
                                     <div class="media-body">
-                                        <span><a href="#">test.contact@gmail.com</a></span>
+                                        <span><a href="#">bk.contact@gmail.com</a></span>
                                     </div>
                                 </li>
 
