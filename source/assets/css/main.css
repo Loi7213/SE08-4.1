@@ -51,7 +51,7 @@
   }
   body {
     font-size: 13px;
-    color: #FF3333; /*màu chữ*/
+    color: #111111; /*màu chữ*/
     background-color: #F0FFFF ; /*màu nền*/
     overflow-x: hidden;
     margin: 0;
@@ -1150,7 +1150,7 @@
     -moz-border-radius: 0;
     border-radius: 0;
     display: inline-block;
-    color: #FF3333;
+    color: #111111;
   }
   .top-cart-row .dropdown-cart .lnk-cart .items-cart-inner {
     position: relative;
@@ -1203,7 +1203,7 @@
     margin-top: 0px;
   }
   .top-cart-row .dropdown-cart .dropdown-menu .cart-item.product-summary .name a {
-    color: #FF3333;
+    color: #111111;
   }
   .top-cart-row .dropdown-cart .dropdown-menu .cart-item.product-summary .price {
     font-weight: 700;
@@ -1221,7 +1221,7 @@
   .top-cart-row .dropdown-cart .dropdown-menu .cart-total .text {
     font-size: 13px;
     font-family: 'FjallaOneRegular';
-    color: #FF3333;
+    color: #111111;
     margin-right: 10px;
   }
   .top-cart-row .dropdown-cart .dropdown-menu .cart-total .price {
@@ -1480,7 +1480,7 @@
   }
   .sidebar .side-menu nav .nav > li > a {
     padding: 13px 15px;
-    color: #FF3333;
+    color: #111111;
     text-transform: uppercase;
   }
   .sidebar .side-menu nav .nav > li > a:after {
@@ -1508,7 +1508,7 @@
   }
   .sidebar .side-menu nav .nav > li > a:hover .icon,
   .sidebar .side-menu nav .nav > li > a:focus .icon {
-    color: #FF3333;
+    color: #111111;
   }
   .sidebar .side-menu nav .nav > li > .mega-menu {
     padding: 3px 0;
@@ -1572,7 +1572,7 @@
     font-family: fontawesome;
   }
   .sidebar .sidebar-module-container .sidebar-widget .sidebar-widget-body .accordion .accordion-group .accordion-heading .accordion-toggle.collapsed {
-    color: #FF3333;
+    color: #111111;
   }
   .sidebar .sidebar-module-container .sidebar-widget .sidebar-widget-body .accordion .accordion-group .accordion-heading .accordion-toggle.collapsed:after {
     color: #636363;
@@ -1589,7 +1589,7 @@
     line-height: 27px;
   }
   .sidebar .sidebar-module-container .sidebar-widget .sidebar-widget-body .accordion .accordion-group .accordion-body .accordion-inner ul li a {
-    color: #FF3333;
+    color: #111111;
   }
   .sidebar .sidebar-module-container .sidebar-widget .sidebar-widget-body .accordion .accordion-group .accordion-body .accordion-inner ul li a:before {
     content: "\f105";
@@ -1672,7 +1672,7 @@
     line-height: 36px;
   }
   .sidebar .sidebar-module-container .sidebar-widget .sidebar-widget-body .list li a {
-    color: #FF3333;
+    color: #111111;
     display: block;
   }
   .sidebar .sidebar-module-container .sidebar-widget .sidebar-widget-body .compare-report {
@@ -2407,7 +2407,7 @@
     color: #ff7878;
   }
   .info-boxes .info-box .text {
-    color: #FF3333;
+    color: #111111;
     text-transform: uppercase;
     font-weight: 500;
     font-size: 13px;
@@ -2438,7 +2438,7 @@
   .scroll-tabs .nav-tab-line li a {
     text-transform: uppercase;
     font-weight: 500;
-    color: #FF3333;
+    color: #111111;
     font-size: 14px;
     border: medium none;
     -moz-box-shadow: none;
@@ -2851,7 +2851,7 @@
     border-top: 1px solid #e5e5e5;
     font-size: 12px;
     line-height: 18px;
-    color: #FF3333;
+    color: #111111;
     margin-bottom: 70px;
   }
   .footer .links-social .contact-info .footer-logo {
@@ -2905,7 +2905,7 @@
     font-family: 'FjallaOneRegular';
   }
   .footer .contact-information .media .media-body a {
-    color: #FF3333;
+    color: #111111;
   }
   .footer .footer-bottom {
     background: #202020;
@@ -2923,7 +2923,7 @@
   .footer .footer-bottom .module-body ul li a {
     font-size: 12px;
     line-height: 36px;
-    color: #FF3333;
+    color: #111111;
     position: relative;
     margin-left: 23px;
     display: block;
@@ -2937,7 +2937,7 @@
   }
   .product-tag .item {
     background-color: #f5f5f5;
-    color: #FF3333;
+    color: #111111;
     display: inline-block;
     margin-bottom: 9px;
     margin-right: 8px;
@@ -3095,7 +3095,7 @@
     text-align: right;
   }
   .breadcrumb ul li:after {
-    color: #FF3333;
+    color: #111111;
     content: "/";
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
@@ -3108,7 +3108,7 @@
     content: "";
   }
   .breadcrumb ul li a {
-    color: #FF3333;
+    color: #111111;
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
     line-height: 24px;
@@ -3145,7 +3145,7 @@
     font-size: 40px;
     letter-spacing: -1px;
     text-transform: uppercase;
-    color: #FF3333;
+    color: #111111;
   }
   .category-carousel .item .owl-controls {
     display: inline-block;
@@ -3209,7 +3209,7 @@
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     border-radius: 0;
-    color: #FF3333;
+    color: #111111;
     font-family: 'Roboto', sans-serif;
     line-height: 18px;
     border: none !important;
@@ -3220,13 +3220,13 @@
     color: #aaa;
   }
   .filters-container .lbl-cnt {
-    color: #FF3333;
+    color: #111111;
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
     line-height: 24px;
   }
   .filters-container .lbl-cnt .lbl {
-    color: #FF3333;
+    color: #111111;
     display: inline-block;
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
@@ -3281,7 +3281,7 @@
     color: #F0FFFF ;
   }
   .filters-container .pagination-container ul li a {
-    color: #FF3333;
+    color: #111111;
     display: inline-block;
     font-family: 'Roboto', sans-serif;
     font-size: 13px;
@@ -3378,7 +3378,7 @@
     font-family: 'FjallaOneRegular';
     line-height: 18px;
     text-transform: uppercase;
-    color: #FF3333;
+    color: #111111;
     padding: 0px;
     font-weight: normal;
   }
@@ -3388,7 +3388,7 @@
   }
   .single-product .product-info .description-container {
     line-height: 20px;
-    color: #FF3333;
+    color: #111111;
   }
   .single-product .product-info .price-container {
     border-bottom: 1px solid #F2F2F2;
@@ -3418,7 +3418,7 @@
     font-family: 'FjallaOneRegular';
     line-height: 40px;
     text-transform: uppercase;
-    color: #FF3333;
+    color: #111111;
     padding: 0px;
     font-weight: normal;
   }
@@ -3738,7 +3738,7 @@
     -webkit-border-radius: 0px;
     -moz-border-radius: 0px;
     border-radius: 0px;
-    color: #FF3333;
+    color: #111111;
     font-family: 'FjallaOneRegular';
     font-size: 20px;
     line-height: 30px;
@@ -3770,7 +3770,7 @@
     margin-left: 5px;
   }
   .product-tabs .tab-content .tab-pane .product-reviews .title {
-    color: #FF3333;
+    color: #111111;
     font-size: 16px;
     font-weight: 500;
     line-height: 20px;
@@ -3787,7 +3787,7 @@
     margin-bottom: 5px;
   }
   .product-tabs .tab-content .tab-pane .product-reviews .reviews .review .review-title .summary {
-    color: #FF3333;
+    color: #111111;
     font-size: 14px;
     font-weight: 300;
     line-height: 45px;
@@ -3807,7 +3807,7 @@
     margin-left: 5px;
   }
   .product-tabs .tab-content .tab-pane .product-add-review .title {
-    color: #FF3333;
+    color: #111111;
     font-size: 16px;
     font-weight: 500;
     line-height: 20px;
@@ -3846,7 +3846,7 @@
     box-shadow: none;
   }
   .product-tabs .tab-content .tab-pane .product-tag .title {
-    color: #FF3333;
+    color: #111111;
     font-size: 16px;
     font-weight: 500;
     line-height: 20px;
@@ -4331,7 +4331,7 @@
     padding-top: 16px;
     text-align: justify;
     font-size: 13px;
-    color: #FF3333;
+    color: #111111;
     margin-bottom: 0px;
   }
   .blog-page .blog-post a {
@@ -4380,14 +4380,14 @@
     padding-top: 10px;
     text-align: justify;
     font-size: 12px;
-    color: #FF3333;
+    color: #111111;
   }
   .blog-page .sidebar .sidebar-module-container .sidebar-widget .nav-tabs {
     border-bottom: none;
   }
   .blog-page .sidebar .sidebar-module-container .sidebar-widget .nav-tabs > li {
     text-transform: uppercase;
-    color: #FF3333;
+    color: #111111;
   }
   .blog-page .sidebar .sidebar-module-container .sidebar-widget .nav-tabs > li > a {
     -webkit-border-radius: 0px;
@@ -4405,7 +4405,7 @@
   }
   .blog-page .sidebar .sidebar-module-container .sidebar-widget .nav > li > a {
     padding: 0px;
-    color: #FF3333;
+    color: #111111;
   }
   .blog-page .sidebar .sidebar-module-container .search-area .search-button:after {
     content: "\f002";
@@ -4501,7 +4501,7 @@
   }
   .blog-page .blog-post-author-details p {
     font-size: 13px;
-    color: #FF3333;
+    color: #111111;
     padding: 16px 0px 0px 0px;
     text-align: justify;
   }
@@ -4514,12 +4514,12 @@
   }
   .blog-page .blog-review p {
     font-size: 13px;
-    color: #FF3333;
+    color: #111111;
     text-align: justify;
   }
   .blog-page .blog-review .review-action {
     font-size: 12px;
-    color: #FF3333;
+    color: #111111;
   }
   .blog-page .blog-review .post-load-more {
     text-align: center;
@@ -4529,7 +4529,7 @@
   .blog-page .blog-post .author:before,
   .blog-page .blog-post .review:before,
   .blog-page .blog-post .date-time:before {
-    color: #FF3333;
+    color: #111111;
     font-size: 13px;
     padding-right: 4px;
     font-family: FontAwesome;
@@ -4537,7 +4537,7 @@
   .blog-page .sidebar .sidebar-module-container .sidebar-widget .blog-post .author:before,
   .blog-page .sidebar .sidebar-module-container .sidebar-widget .blog-post .review:before,
   .blog-page .sidebar .sidebar-module-container .sidebar-widget .blog-post .date-time:before {
-    color: #FF3333;
+    color: #111111;
     font-size: 13px;
     padding-right: 4px;
     ont-family: FontAwesome;
@@ -4618,7 +4618,7 @@
   }
   .checkout-box .checkout-steps .checkout-step-01 .already-registered-login a {
     font-size: 14px;
-    color: #FF3333;
+    color: #111111;
     text-decoration: underline;
   }
   .checkout-box .checkout-steps .checkout-step-01 .already-registered-login button {
@@ -4661,7 +4661,7 @@
     border-radius: 0px !important;
   }
   .checkout-box .checkout-progress-sidebar .panel-body ul li a {
-    color: #FF3333;
+    color: #111111;
   }
   .checkout-box .checkout-progress-sidebar .panel .panel-heading {
     padding: 27px 30px;
@@ -4746,7 +4746,7 @@
   }
   .shopping-cart .shopping-cart-table table tbody tr .romove-item a {
     font-size: 18px;
-    color: #FF3333;
+    color: #111111;
   }
   .shopping-cart .shopping-cart-table table tbody tr .romove-item a:hover,
   .shopping-cart .shopping-cart-table table tbody tr .romove-item a:focus {
@@ -4778,7 +4778,7 @@
   .shopping-cart .shopping-cart-table table tbody tr .cart-product-name-info .cart-product-info span {
     font-family: 'FjallaOneRegular';
     font-size: 12px;
-    color: #FF3333;
+    color: #111111;
     text-transform: uppercase;
   }
   .shopping-cart .shopping-cart-table table tbody tr .cart-product-name-info .cart-product-info span span {
@@ -4788,7 +4788,7 @@
     margin-left: 14px;
   }
   .shopping-cart .shopping-cart-table table tbody tr .cart-product-edit a {
-    color: #FF3333;
+    color: #111111;
     text-decoration: underline;
   }
   .shopping-cart .shopping-cart-table .table > thead > tr > th {
@@ -4813,7 +4813,7 @@
   .shopping-cart .estimate-ship-tax table thead tr th p {
     font-family: 'Roboto', sans-serif;
     font-size: 13px;
-    color: #FF3333;
+    color: #111111;
     font-weight: normal;
     margin-bottom: 0px;
   }
@@ -4855,7 +4855,7 @@
   .shopping-cart .cart-shopping-total table tbody tr td .cart-checkout-btn span {
     display: block;
     font-weight: normal;
-    color: #FF3333;
+    color: #111111;
   }
   .shopping-cart .shopping-cart-table table tbody tr .romove-item,
   .shopping-cart .shopping-cart-table table tbody tr .cart-product-edit,
@@ -4939,13 +4939,13 @@
     font-family: 'FjallaOneRegular';
     font-size: 30px;
     text-transform: uppercase;
-    color: #FF3333;
+    color: #111111;
     margin-bottom: 40px;
   }
   .product-comparison .compare-table tr th {
     font-size: 20px;
     font-weight: 500;
-    color: #FF3333;
+    color: #111111;
     padding: 18px 25px;
     vertical-align: middle;
     border: 1px solid #cccccc;
@@ -4985,7 +4985,7 @@
     margin-bottom: 0px;
   }
   .product-comparison .compare-table tr td .remove-icon {
-    color: #FF3333;
+    color: #111111;
   }
   .product-comparison .compare-table tr td .remove-icon:hover,
   .product-comparison .compare-table tr td .remove-icon:focus {
